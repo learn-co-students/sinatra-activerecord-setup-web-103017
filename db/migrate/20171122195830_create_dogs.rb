@@ -4,4 +4,5 @@ class CreateDogs < ActiveRecord::Migration
       t.string :name
       t.string :breed
     end
+  end
 end
